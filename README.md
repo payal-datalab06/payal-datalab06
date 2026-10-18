@@ -49,11 +49,9 @@ A Power BI dashboard exploring listing growth, city-level market share, prices, 
 ## 🤝 Connect With Me
 
 - **GitHub:** [@payal-datalab06](https://github.com/payal-datalab06)
-- **LinkedIn:** Add your LinkedIn profile link after replacing this placeholder
-- **Email:** Use the professional email listed on my GitHub profile
+- **Email:** payal.patil.work@gmail.com
 
----
-
+----
 *Thanks for visiting my profile! I'm learning, building, and improving one project at a time. 📈*
 
 

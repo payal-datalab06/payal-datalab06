@@ -23,22 +23,38 @@ I enjoy exploring data, finding patterns, and turning analysis into clear, usefu
 - **Visualization:** Power BI
 - **Current focus:** Exploratory data analysis, SQL querying, and dashboard storytelling
 
-## 📂 Featured Projects
+##📂 Featured Projects
 
-### 1. Customer Churn Analysis
-Exploratory analysis of customer churn using Python and data visualization.
+1. 🛍️ IKEA Gifting Customer Analytics
 
-**Repository:** [customer-churn-analysis](https://github.com/payal-datalab06/customer-churn-analysis)
+Customer analytics project exploring purchasing behaviour, customer value, RFM segmentation, and inactivity risk using SQL, Python, and Power BI.
 
-### 2. SQL Music Store Analysis
-SQL project exploring music store data to answer business questions about customers, artists, sales, and purchasing patterns.
+Key focus: Customer segmentation, revenue analysis, retention insights, and interactive dashboard reporting.
 
-**Repository:** [sql-music-store-analysis](https://github.com/payal-datalab06/sql-music-store-analysis)
+🔗 "View Project Repository" (https://github.com/payal-datalab06/ikea-gifting-customer-analytics)
 
-### 3. Global Airbnb Performance Dashboard
+2. 🌍 Global Airbnb Performance Dashboard
+
 A Power BI dashboard exploring listing growth, city-level market share, prices, ratings, review patterns, seasonality, and host trust signals across 10 cities.
 
-**Repository:** [global-airbnb-performance-dashboard](https://github.com/payal-datalab06/global-airbnb-performance-dashboard)
+🔗 "View Project Repository" (https://github.com/payal-datalab06/global-airbnb-performance-dashboard)
+
+3. 🎵 SQL Music Store Analysis
+
+A SQL project exploring customer spending, sales patterns, music genres, artists, and track information through business-focused queries.
+
+Key focus: SQL querying, joins, aggregations, subqueries, and analytical problem-solving.
+
+🔗 "View Project Repository" (https://github.com/payal-datalab06/sql-music-store-analysis)
+
+4. 📊 Customer Churn Analysis
+
+An exploratory data analysis project using Python to investigate customer churn patterns and explore factors associated with customer retention.
+
+Tools: Python, Pandas, and data visualization.
+
+🔗 "View Project Repository" (https://github.com/payal-datalab06/customer-churn-analysis)
+
 
 ## 📚 Currently Learning
 

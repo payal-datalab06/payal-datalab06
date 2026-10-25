@@ -1,73 +1,116 @@
-<div align="center">
+<div align="center">Hi, I'm Payal Patil! 👋
 
-# Hi, I'm Payal! 👋
+📊 Aspiring Data Analyst | B.Com Graduate
 
-### Aspiring Data Analyst | B.Com Graduate
+Turning data into insights and insights into better decisions.
 
-I enjoy exploring data, finding patterns, and turning analysis into clear, useful insights.
+I'm an aspiring Data Analyst passionate about exploring data, identifying patterns, and solving business problems through data-driven insights. I'm building my skills through practical projects using Excel, SQL, Python, and Power BI.
 
-</div>
+📍 Nagpur, India | 🌱 Learning and growing, one project at a time
+
+</div>---
+
+👩‍💻 About Me
+
+- 🎓 B.Com graduate with an interest in data analytics and business intelligence.
+- 📊 Building hands-on projects to strengthen my analytical and technical skills.
+- 🔍 Interested in customer behaviour, business performance, and data-driven decision-making.
+- 🌱 Continuously improving my SQL, Excel, Python, and Power BI skills.
+- 🎯 Looking for an entry-level opportunity where I can learn, contribute, and grow as a Data Analyst.
 
 ---
 
-## 👩‍💻 About Me
+🛠️ Skills & Tools
 
-- 🎓 B.Com graduate
-- 📊 Building hands-on projects in data analytics
-- 🌱 Developing my skills in Excel, SQL, Python, and Power BI
-- 🎯 Working toward an entry-level data analyst opportunity
+Category| Skills
+Data Analysis| Exploratory Data Analysis, Data Cleaning, Customer Segmentation
+Spreadsheets| Microsoft Excel
+Querying| SQL
+Programming| Python, Pandas
+Visualization| Power BI, Data Visualization
+Business Analysis| KPI Analysis, Customer Behaviour Analysis, Business Insights
 
-## 🛠️ Skills
+---
 
-- **Data analysis:** Excel, SQL, Python
-- **Visualization:** Power BI
-- **Current focus:** Exploratory data analysis, SQL querying, and dashboard storytelling
-
-## 📂 Featured Projects
+🚀 Featured Projects
 
 1. 🛍️ IKEA Gifting Customer Analytics
 
-Customer analytics project exploring purchasing behaviour, customer value, RFM segmentation, and inactivity risk using SQL, Python, and Power BI.
+A customer analytics case study exploring purchasing behaviour, customer value, RFM segmentation, and customer inactivity risk.
 
-Key focus: Customer segmentation, revenue analysis, retention insights, and interactive dashboard reporting.
+Tools: SQL, Python, Pandas, Power BI
 
-🔗 "View Project Repository" (https://github.com/payal-datalab06/ikea-gifting-customer-analytics)
+Project focus:
+
+- Customer purchasing behaviour and revenue analysis.
+- RFM-based customer segmentation.
+- Identification of inactive customers using a 90-day inactivity definition.
+- Business insights to support customer retention strategies.
+
+🔗 "View IKEA Gifting Customer Analytics" (https://github.com/payal-datalab06/ikea-gifting-customer-analytics)
 
 2. 🌍 Global Airbnb Performance Dashboard
 
-A Power BI dashboard exploring listing growth, city-level market share, prices, ratings, review patterns, seasonality, and host trust signals across 10 cities.
+A Power BI dashboard exploring Airbnb listing performance and market patterns across multiple cities.
 
-🔗 "View Project Repository" (https://github.com/payal-datalab06/global-airbnb-performance-dashboard)
+Tools: Power BI, Data Visualization
 
-3. 🎵 SQL Music Store Analysis
+Project focus:
 
-A SQL project exploring customer spending, sales patterns, music genres, artists, and track information through business-focused queries.
+- Listing growth and city-level market share.
+- Pricing, ratings, and review patterns.
+- Seasonality and host-related indicators.
 
-Key focus: SQL querying, joins, aggregations, subqueries, and analytical problem-solving.
+🔗 "View Airbnb Performance Dashboard" (https://github.com/payal-datalab06/global-airbnb-performance-dashboard)
 
-🔗 "View Project Repository" (https://github.com/payal-datalab06/sql-music-store-analysis)
+3. 🎵 Music Store Data Analysis
 
-4. 📊 Customer Churn Analysis
+A SQL project using business-focused queries to explore music store data and answer analytical questions.
 
-An exploratory data analysis project using Python to investigate customer churn patterns and explore factors associated with customer retention.
+Tools: SQL
 
-Tools: Python, Pandas, and data visualization.
+Project focus:
 
-🔗 "View Project Repository" (https://github.com/payal-datalab06/customer-churn-analysis)
+- Customer spending and sales patterns.
+- Music genres, artists, and track information.
+- Joins, aggregations, and analytical queries.
 
+🔗 "View SQL Music Store Analysis" (https://github.com/payal-datalab06/sql-music-store-analysis)
 
-## 📚 Currently Learning
+4. 📉 Customer Churn Exploratory Data Analysis
 
-- Strengthening SQL and Excel
-- Improving data storytelling and dashboard design
-- Building practical projects for my analytics portfolio
+A Python EDA project investigating customer churn patterns and exploring factors associated with customer retention.
 
-## 🤝 Connect With Me
+Tools: Python, Pandas, Data Visualization
 
-- **GitHub:** [@payal-datalab06](https://github.com/payal-datalab06)
-- **Email:** payal.patil.work@gmail.com
+Project focus:
 
-----
-*Thanks for visiting my profile! I'm learning, building, and improving one project at a time. 📈*
+- Data exploration and preparation.
+- Analysis of customer characteristics and churn patterns.
+- Visualisation of findings to support business understanding.
 
+🔗 "View Customer Churn Analysis" (https://github.com/payal-datalab06/customer-churn-analysis)
 
+---
+
+📚 Currently Learning
+
+- Strengthening SQL and Excel for practical business analysis.
+- Improving Python-based data cleaning and exploratory analysis.
+- Developing better Power BI dashboards and data storytelling.
+- Learning to translate business questions into analytical solutions.
+
+---
+
+🤝 Connect With Me
+
+- 📧 Email: payal.patil.work@gmail.com
+- 🐙 GitHub: "@payal-datalab06" (https://github.com/payal-datalab06)
+
+---
+
+<div align="center">🌱 Learning. Building. Improving.
+
+Every project is an opportunity to ask better questions, understand data, and discover something useful.
+
+</div>

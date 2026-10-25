@@ -23,7 +23,7 @@ I enjoy exploring data, finding patterns, and turning analysis into clear, usefu
 - **Visualization:** Power BI
 - **Current focus:** Exploratory data analysis, SQL querying, and dashboard storytelling
 
-##📂 Featured Projects
+## 📂 Featured Projects
 
 1. 🛍️ IKEA Gifting Customer Analytics
 

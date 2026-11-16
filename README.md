@@ -104,8 +104,8 @@ Project Highlights:
 🤝 Connect With Me
 
 - 📧 Email: payal.patil.work@gmail.com
-- 🐙 GitHub: "@payal-datalab06" (https://github.com/payal-datalab06)
--     Linkedin: [Connect with me on] (https://www.linkedin.com/in/payalpatildataanalytics/)
+- 🐙 **GitHub:** [@payal-datalab06](https://github.com/payal-datalab06)
+- 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/payalpatildataanalytics/)
 ---
 
 🌱 Learning. Building. Improving.

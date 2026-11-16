@@ -105,7 +105,7 @@ Project Highlights:
 
 - 📧 Email: payal.patil.work@gmail.com
 - 🐙 GitHub: "@payal-datalab06" (https://github.com/payal-datalab06)
--     Linkedin: www.linkedin.com/in/payalpatildataanalytics
+-     Linkedin: [ Connect with me on ] (https://www.linkedin.com/in/payalpatildataanalytics/)
 ---
 
 🌱 Learning. Building. Improving.
